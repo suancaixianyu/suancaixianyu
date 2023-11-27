@@ -30,3 +30,14 @@ Here are some ideas to get you started:
     <img alt="会变亮变暗的常用语言！" src="https://github-readme-stats.vercel.app/api/top-langs?username=suancaixianyu&locale=cn">
   </picture>
 </div>
+
+## 联系方式
+- QQ 群组：
+1. [659945190]([https://jq.qq.com/?k=VBuHGPv3](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=VTH5TPkYKVe1D1cQloLci28AsGibBtij&authKey=Hz20fSbMqTl1UE2SGmGs0ojn3QRX8Xx2ok7oN71AnxXnaxRojQzMr5oQc8%2FK4ndD&noverify=0&group_code=483024275))
+- GitHub：[suancaixianyu](https://github.com/suancaixianyu)
+- bilibili: [酸菜味小咸鱼](https://space.bilibili.com/317339711)
+- QQ: [酸菜味小咸鱼](https://qm.qq.com/q/HUrQnibuSc)
+
+## 赞助支持
+- 爱发电：<https://afdian.net/a/xiaoxianyu712>
+
