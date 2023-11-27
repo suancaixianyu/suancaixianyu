@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 联系方式
-- QQ 群组：[659945190]([https://jq.qq.com/?k=VBuHGPv3](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=VTH5TPkYKVe1D1cQloLci28AsGibBtij&authKey=Hz20fSbMqTl1UE2SGmGs0ojn3QRX8Xx2ok7oN71AnxXnaxRojQzMr5oQc8%2FK4ndD&noverify=0&group_code=483024275))
+- QQ 群组：[483024275](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=VTH5TPkYKVe1D1cQloLci28AsGibBtij&authKey=Hz20fSbMqTl1UE2SGmGs0ojn3QRX8Xx2ok7oN71AnxXnaxRojQzMr5oQc8%2FK4ndD&noverify=0&group_code=483024275)
 - GitHub：[suancaixianyu](https://github.com/suancaixianyu)
 - bilibili: [酸菜味小咸鱼](https://space.bilibili.com/317339711)
 - QQ: [酸菜味小咸鱼](https://qm.qq.com/q/HUrQnibuSc)
