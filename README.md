@@ -25,9 +25,7 @@ Here are some ideas to get you started:
     <img alt="会变亮变暗的GitHub状态！" src="https://github-readme-stats.vercel.app/api?username=suancaixianyu&show_icons=true&locale=cn">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suancaixianyu&locale=cn&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=suancaixianyu&locale=cn">
-    <img alt="会变亮变暗的常用语言！" src="https://github-readme-stats.vercel.app/api/top-langs?username=suancaixianyu&locale=cn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suancaixianyu&layout=compact&text_color=1F2328&bg_color=FFFEFE&locale=cn">
   </picture>
 </div>
 
