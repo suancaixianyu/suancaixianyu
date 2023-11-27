@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|![访问量](https://visitor-badge.glitch.me/badge?page_id=suancaixianyu&left_text=访%20问%20量)|![访问量](https://profile-counter.glitch.me/suancaixianyu/count.svg)|
+|访问量|![访问量](https://profile-counter.glitch.me/suancaixianyu/count.svg)|
 |-|-|
 
 <div>
